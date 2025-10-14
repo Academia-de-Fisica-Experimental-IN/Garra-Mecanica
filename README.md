@@ -64,8 +64,8 @@ Para ensamblar el proyecto, realiza las siguientes conexiones con cuidado.
 Este proyecto fue creado con fines educativos y de aprendizaje por:
 
 *   Lucas Espinoza
-*   Pablo Cruzat
-*   Felipe Colli
+*   [Pablo Cruzat](https://github.com/PabloCruzval)
+*   [Felipe Colli](https://github.com/F-Patata2008)
 
 Siéntete libre de usar y modificar este proyecto para tus propios fines. ¡La mejor manera de aprender es experimentar!
 
