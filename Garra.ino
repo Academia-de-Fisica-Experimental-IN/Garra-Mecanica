@@ -45,7 +45,7 @@ void loop() {
 	last_Joy_sw = Joy_sw;
 	
   int delta_x = map(Joy_x, 0, 1023, -45, 45);
-	delta_x = (mode) ? delta_x * -1 : delta_x;
+  delta_x = (mode) ? delta_x * -1 : delta_x;
   int delta_y = map(Joy_y, 0, 1023, -45, 45);
 
   angulo_x = constrain(90 + delta_x, servo_min, servo_max);
